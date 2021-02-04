@@ -1,1 +1,3 @@
-# proyectogitProyecto de prueba para curso GIT
+# proyectogit
+
+Proyecto de prueba para curso GIT
